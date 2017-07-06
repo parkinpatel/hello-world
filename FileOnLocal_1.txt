@@ -1,2 +1,2 @@
 This is a new file on local
-Added a new line via master
+Added a new line. Updated this line on local. 
